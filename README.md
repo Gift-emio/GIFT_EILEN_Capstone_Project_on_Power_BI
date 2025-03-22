@@ -78,16 +78,16 @@ Based on the discused business problem, we defined specific business questions t
 The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
 
 ## Dataset Before Cleaning
-[View Image](https://github.com/user-attachments/assets/cea8bb91-a6f9-4479-a7ee-d0460e640c45)
+[](https://github.com/user-attachments/assets/cea8bb91-a6f9-4479-a7ee-d0460e640c45)
 
 ## Dataset after cleaning
-[View Image 1](https://github.com/user-attachments/assets/0a38ff71-2273-4096-a8d7-7cf71c77146c)
+[](https://github.com/user-attachments/assets/0a38ff71-2273-4096-a8d7-7cf71c77146c)
 
-[View Image 2](https://github.com/user-attachments/assets/4247ca0a-4ed6-43fd-bbe2-8725720d1ee0)
+[](https://github.com/user-attachments/assets/4247ca0a-4ed6-43fd-bbe2-8725720d1ee0)
 
-[View Image 3](https://github.com/user-attachments/assets/17eef28b-00e7-4824-98ab-22a28d60e01b)  
+[](https://github.com/user-attachments/assets/17eef28b-00e7-4824-98ab-22a28d60e01b)  
 
-[View Image 4](https://github.com/user-attachments/assets/35767ca3-b3db-4e93-8a4f-23558d05b1f0)
+[](https://github.com/user-attachments/assets/35767ca3-b3db-4e93-8a4f-23558d05b1f0)
 
 ## Data Modelling and Relationships.
 Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:
@@ -95,7 +95,7 @@ Dimensions with which to break down the analysis were identified. Hence, new tab
 
 - Customer's Bank Info
 
-[View Image](https://github.com/user-attachments/assets/06874726-255d-4aa6-a5f0-4349e78d8628)
+[](https://github.com/user-attachments/assets/06874726-255d-4aa6-a5f0-4349e78d8628)
 
 ## Create Visualizations and Charts:
 Appropriate chart types (e.g., Bar charts, Column chart, Area charts, Donut Chart and pie charts) were used to represent the metrics and insights. Interactive features such as filters, slicer options, and tooltips were used for detailed information.
