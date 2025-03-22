@@ -100,7 +100,7 @@ Dimensions with which to break down the analysis were identified. Hence, new tab
 ## Create Visualizations and Charts:
 Appropriate chart types (e.g., Bar charts, Column chart, Area charts, Donut Chart and pie charts) were used to represent the metrics and insights. Interactive features such as filters, slicer options, and tooltips were used for detailed information.
 
-[View Image](https://github.com/user-attachments/assets/43156a08-0412-4bf6-889f-a9d3fa7bc3d8)
+[](https://github.com/user-attachments/assets/43156a08-0412-4bf6-889f-a9d3fa7bc3d8)
 
 
 ## Insights
@@ -126,8 +126,10 @@ Appropriate chart types (e.g., Bar charts, Column chart, Area charts, Donut Char
 ## Deployment and Documentation
 Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
 
-Interact with the final dashboard 👉[here:](https://drive.google.com/drive/folders/17YDcni0YOozr5zQ-gCN6PzArrGayPnsj?usp=drive_link)👈
+Interact with the final dashboard 👉 [here:](https://drive.google.com/drive/folders/17YDcni0YOozr5zQ-gCN6PzArrGayPnsj?usp=drive_link) 👈
 
+## Author
+[Gift Eilen](www.linkedin.com/in/gift-eilen-435409231)
 
 
 
